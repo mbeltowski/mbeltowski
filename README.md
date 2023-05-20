@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marcel!</h1>
-<h3 align="center">Young, passionate, Aspirint Frontend Developer based in Poland</h3>
+<h3 align="center">Young, passionate, Aspiring Frontend Developer based in Poland</h3>
 
 - 🔭 I’m currently working on **portfolio projects**
 
